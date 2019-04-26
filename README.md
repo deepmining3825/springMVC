@@ -1,2 +1,1 @@
-"# springMVC" 
 "# springMVC sample project" 
